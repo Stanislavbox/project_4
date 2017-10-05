@@ -1,0 +1,153 @@
+@media only screen and (max-width:680px){
+	.btn{
+		display: block;
+		margin-top: -5px;
+	}
+	.menu ul{
+		display: none;
+		position:absolute;
+		left:0;
+		right:0;
+		top:80px;
+		padding-bottom: 5px;
+		/*background-image: url(../img/menu.jpg);*/
+	}
+
+	.menu  li{
+		display: block;
+		text-align: center;
+		line-height: 45px;
+		padding-right: 0;
+	}
+
+	.menu a{
+		display: block;
+		line-height: 45px;
+		transition:all 0.3s;
+		color: #fed136;
+	}
+
+	.menu a:hover{
+		background-color: #897d52;
+	}
+	
+	.top_header {
+    padding-top: 33px;
+	}
+
+	.bot_header {
+    margin-top: 100px;
+    padding-bottom: 80px;
+    font-size: 50px;
+	}
+	
+	.bot_header p {
+    font-size: 26px;
+    padding-bottom: 25px;
+	}
+	
+	.header_btn {
+    margin-top: 37px;
+    font-size: 12px;
+    width: 160px;
+    height: 43px;
+    line-height: 43px;
+	}
+
+	.box {
+    padding: 80px 0px;
+	}
+
+	.box h3 {
+    font-size: 27px;
+    padding-bottom: 16px;
+	}
+
+	.block {
+    padding-top: 50px;
+	}
+
+	.services .block .icon {
+    margin: 10px;
+	}
+	.icon{
+	margin: 10px;
+	}
+	.services .block .icon{
+	margin: 10px;
+	}
+
+	.icon:last-child{
+	margin: 10px;
+	}
+
+	.portfolio .icon:nth-child(3){
+	 margin: 10px;
+	}
+
+	.text_about p {
+    font-size: 14px;
+    padding-bottom: 6px;
+	}
+
+	.text_about span {
+    padding-top: 7px;
+	}
+
+	.box span {
+    font-size: 14px;
+	}
+
+	.team_foto {
+    padding: 10px;
+	}
+	
+	.partners {
+    line-height: 60px;
+	}
+	.partners img {
+    padding: 0 10px;
+    vertical-align: middle;
+	}
+
+	.box_form_right {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+	}
+
+	.box_form_left {
+	 float: none;
+    margin-left: auto;
+    margin-right: auto;
+	}
+
+	.form_btn {
+    margin-top: 37px;
+    font-size: 12px;
+    width: 160px;
+    height: 43px;
+    line-height: 43px;
+	}
+
+	.footer_right {
+    width: 50%;
+	}
+
+	.footer_left {
+    width: 50%;
+    font-size: 12px;
+	}
+
+	.footer {
+    line-height: 66px;
+	}
+}
+
+
+@media only screen and (min-width:681px){
+	.menu ul{
+		display: block !important;
+	}
+}
+

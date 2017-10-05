@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'ThirstyScriptExtraboldDemo';
+	src: url('../fonts/ThirstyScriptExtraboldDemo/ThirstyScriptExtraboldDemo.eot');
+	src: url('../fonts/ThirstyScriptExtraboldDemo/ThirstyScriptExtraboldDemo.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/ThirstyScriptExtraboldDemo/ThirstyScriptExtraboldDemo.woff') format('woff'),
+		 url('../fonts/ThirstyScriptExtraboldDemo/ThirstyScriptExtraboldDemo.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
